@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Patrik Sjöberg
 description: - IT consultant
+show_downloads: false
+google_analytics: UA-2371782-1
