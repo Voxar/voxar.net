@@ -3,3 +3,5 @@ title: "Patrik Sjöberg"
 description: "IT consultant"
 show_downloads: false
 google_analytics: "UA-2371782-1"
+github:
+  is_project_page: false
